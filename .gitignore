@@ -8,6 +8,8 @@ gradle/wrapper/gradle-wrapper.jar
 gradlew
 gradlew.bat
 
+src/resources/application.properties
+
 ### STS ###
 .apt_generated
 .classpath
